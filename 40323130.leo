@@ -189,7 +189,7 @@
     &lt;section&gt;
     &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;在git pull之後要回到2015fallcadpa資料夾的最外層按右鍵grepwin，在search的地方輸入7個(&lt;)檢查是否有衝突&lt;/p&gt;
+    &lt;p align="left"&gt;在git pull之後要回到2015fallcadpa資料夾的最外層按右鍵grepwin，在search的地方輸入7個(&lt;)檢查是否有衝突，確認無誤後再上推&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
