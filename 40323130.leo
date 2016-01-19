@@ -94,8 +94,8 @@
 <v t="yee.20160107141541.7" a="E"><vh>投影頁面1 封面</vh>
 <v t="yee.20160107141541.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="123.20160110171523.1" a="E"><vh>投影頁面2 筆記</vh>
-<v t="123.20160110171523.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="yee.20160107141541.9" a="E"><vh>投影頁面2 筆記</vh>
+<v t="yee.20160107141541.12"></v>
 </v>
 <v t="yee.20160107141541.11" a="E"><vh>投影頁面 自評與心得</vh>
 <v t="yee.20160107141541.12"></v>
@@ -185,24 +185,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="123.20160110171523.1">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
-    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;在git pull之後要回到2015fallcadpa資料夾的最外層按右鍵grepwin，在search的地方輸入7個(&lt;)檢查是否有衝突，確認無誤後再上推&lt;/p&gt;
-    &lt;br&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-
-
-
-</t>
-<t tx="123.20160110171523.2">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="leo.20151228205439.2"></t>
 <t tx="leo.20151228205451.1">@language python
 import os
@@ -615,6 +597,19 @@ content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</
     
 &lt;/section&gt;
 	
+</t>
+<t tx="yee.20160107141541.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
+    &lt;p align="left"&gt;在git pull之後要回到2015fallcadpa資料夾的最外層按右鍵grepwin，在search的地方輸入7個(&lt;)檢查是否有衝突，確認無誤後再上推&lt;/p&gt;
+    &lt;br&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+
+
 </t>
 <t tx="yee.20160107141543.1">@language xml
 @tabwidth -4
